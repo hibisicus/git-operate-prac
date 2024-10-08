@@ -13,8 +13,8 @@ public class TestMain {
     /* ---------------- Constants -------------- */
 
     public static void main(String[] args) {
-        System.out.println("这是第别人三次修改代码代码");
-        System.out.println("这是第新修改的第四次修改代码代码");
+        System.out.println("这是第四次修改代码代码");
+        System.out.println("啥");
         System.out.println("这是第二次修改代码代码");
 
     }
